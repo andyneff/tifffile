@@ -157,7 +157,7 @@ except ImportError:
         "Loading of some compressed images will be slow.\n"
         "Tifffile.c can be obtained at http://www.lfd.uci.edu/~gohlke/")
 
-__version__ = '2014.08.24'
+__version__ = '2014.10.10.1'
 __docformat__ = 'restructuredtext en'
 __all__ = ('imsave', 'imread', 'imshow', 'TiffFile', 'TiffWriter',
            'TiffSequence')
